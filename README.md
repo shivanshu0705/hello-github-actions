@@ -11,7 +11,7 @@
 
 _Create a GitHub Action and use it in a workflow._
 
-</header>
+🇨🇦</header>
 
 <!--
   <<< Author notes: Finish >>>
